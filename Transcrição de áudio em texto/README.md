@@ -10,12 +10,12 @@
 
 <br>
 
-3. Para criar um novo recurso, primeiro defina um nome a ele. Mantenha sua opção de assiantura. É recomendado não utilizar servidores da região do Brasil, por questões de instabilidade, aqui utilize a já indicada pela Azure ou "East US". Mantenha o "Padrão SO" em "Tipo de preço". Selecione um grupo de recursos. E por fim clique em "Criar um recurso".
+3. Para criar um novo recurso, primeiro defina um nome a ele. Selecione um grupo de recursos. E por fim clique em "Criar um recurso".
 ![Criação de um novo recurso](images/img-3.jpg)
 
 <br>
 
-4. Selecione o recurso criado na checkbox a esquerda do nome dele. E aperte em "Usar o recurso". Se você não for redirecionado a tela inicial, pode fechar as configurações no botão na lateral superior direita.
+4. Selecione o recurso criado na checkbox a esquerda do nome dele. E aperte em "Usar o recurso". 
 ![Escolhendo um recurso](images/img-4.jpg)
 
 <br>
@@ -25,12 +25,12 @@
 
 <br>
 
-6. Clique no checkbox para reconhecer o uso de recursos e escolha o idioma do áudio que será testado e escolher um áudio do seu computador ou gravar um na hora.
+6. Clique no checkbox para reconhecer o uso de recursos e escolha o idioma do áudio que será testado e escolha um áudio do seu computador ou gravar um na hora.
 ![Reconhecendo recurso e escolhendo idioma](images/img-6.jpg)
 
 <br>
 
-7. Em "Arquivos de áudio" temos os áudios que estão / já foram transcritos, e em "Resultados de teste" na seção "Texto" temos a transcrição do áudio em tempo real.
+7. Em "Arquivos de áudio" temos os áudios que foram transcritos, e em "Resultados de teste" na seção "Texto" temos a transcrição do áudio em tempo real.
 ![Administração do áudio](images/img-7.jpg)
 
 <br>
