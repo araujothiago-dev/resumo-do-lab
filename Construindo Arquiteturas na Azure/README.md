@@ -33,7 +33,7 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 <br>
 
 7. Avance e será gerada automaticamente um endereço para rede.
-![Serviços Cognitivos da Azure](images/img-5.jpg)
+![Serviços da Azure](images/img-5.jpg)
 
 <br>
 
