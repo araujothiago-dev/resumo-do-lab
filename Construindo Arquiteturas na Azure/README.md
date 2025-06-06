@@ -8,7 +8,8 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 <br>
 
 2. Na nova aba clique em "Criar" no menu de opções, para criar um novo grupo de recursos. Em "Grupos de recursos", dê um nome ao grupo.
-![Detalhes do projeto](images/img-2.jpg)
+<br>
+(images/img-2.jpg)
 
 <br>
 
