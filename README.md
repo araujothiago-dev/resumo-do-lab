@@ -1,4 +1,4 @@
-# resumo-do-lab
+# Trabalhando com Ambiente Cloud na Azure
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
 
 Até o momento obtive o conhecimento de: 
