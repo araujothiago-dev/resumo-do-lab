@@ -2,9 +2,7 @@
 
 ## Introdução
 
-**Inteligência Artificial Generativa (IA generativa)** é um assistente de IA desenvolvido pela Microsoft, projetado para ajudar a encontrar informações, gerar ideias, responder perguntas dentre outras opções. Ela pode auxiliar na criação de textos, programação, organização de tarefas e até mesmo em momentos de descontração. Seja para trabalho, aprendizado ou lazer.
-
-A Inteligência Artificial Generativa (IA generativa) é um ramo da IA que se concentra na criação de conteúdos originais, como textos, imagens, músicas e até vídeos. Ao contrário de sistemas tradicionais que apenas analisam e respondem a perguntas com base em dados existentes, a IA generativa utiliza modelos avançados de aprendizado de máquina para produzir novos conteúdos a partir de padrões e exemplos anteriores.
+**Inteligência Artificial Generativa (IA generativa)** é um ramo da IA que se concentra na criação de conteúdos originais, como textos, imagens, músicas e até vídeos. Ao contrário de sistemas tradicionais que apenas analisam e respondem a perguntas com base em dados existentes, a IA generativa utiliza modelos avançados de aprendizado de máquina para produzir novos conteúdos a partir de padrões e exemplos anteriores.
 
 Ela tem aplicações em diversas áreas, desde a criatividade e entretenimento até negócios e ciência. Exemplos incluem assistentes de escrita, geradores de imagens a partir de descrições textuais e até ferramentas que auxiliam na composição musical. Essa tecnologia está revolucionando a forma como interagimos com computadores e expandindo as possibilidades da criação digital.
 
@@ -41,7 +39,6 @@ Esses experimentos foram baseados nos guias da Microsoft Learn. Para informaçõ
 
 
 
-
 ## Procedimento
 Para realizar os experimentos aquí mostrados basta acessar o [Microsoft Copilot](https://copilot.microsoft.com), realizar o *login* com uma conta Microsoft e começar a utilizar o *prompt*.
 
@@ -49,7 +46,7 @@ Para realizar os experimentos aquí mostrados basta acessar o [Microsoft Copilot
   <img src="images/img-1.png" alt="Image started IA" width="600"/>
 </div>
 
-O primeiro teste foi pedir à IA que gerasse 3 contras e pros sobre o uso da inteligencia artificial na programação.
+O primeiro teste foi pedir à IA que gerasse 3 contras e prós sobre o uso da inteligencia artificial na programação.
 
 
 <div align="center">
@@ -57,7 +54,7 @@ O primeiro teste foi pedir à IA que gerasse 3 contras e pros sobre o uso da int
 </div>
 
 
-Geração de uma imagem animada de um programador home office.
+O segundo teste foi a geração de uma imagem animada de um programador home office.
 
 
 <div align="center">
@@ -65,7 +62,7 @@ Geração de uma imagem animada de um programador home office.
 </div>
 
 
-Criar código de maneira automatizada de um codigo de um jogo sudoku em java.
+O terceiro teste foi criar código de maneira automatizada de um codigo de um jogo sudoku em java.
 
 
 <div align="center">
