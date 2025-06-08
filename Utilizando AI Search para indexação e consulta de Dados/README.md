@@ -165,7 +165,7 @@
 
 <br>
 
-35. Na seção "Criar um indexador", defina um nome de sua preferência e em agenda escolha "Uma vez". Expanda a seção "Opções avançadas", assinale a opção "Chaves de Codificação de Base 64" e clique em "Enviar".
+35. Na seção "Criar um indexador", defina um nome de sua preferência e em agenda escolha "Uma vez" e clique em "Enviar".
 ![Menu lateral da Azure](images/img-35.jpg)
 
 <br>
