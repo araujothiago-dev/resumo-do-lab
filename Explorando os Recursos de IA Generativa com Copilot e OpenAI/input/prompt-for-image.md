@@ -1,0 +1,1 @@
+imagem animada de um programador trabalhando home office
